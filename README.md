@@ -346,5 +346,5 @@ java -jar target/ocsms-1.0.0.jar
 
 | Name | GitHub |
 |--------|--------|
-| Muhammad Bilal | @bilal-773 |
-|Muhammad Muddasir | @Muddasir1808 |
+| Muhammad Bilal | www.github.com/bilal-773 |
+|Muhammad Muddasir | www.github.com/muddasir-io |
